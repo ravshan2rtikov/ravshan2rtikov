@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying CS50 from Harvard<br> 🌱 Learned Linux, hardware and networking basics<br>💬 Read handful of books on DevOps and Agile <br>⚡ Fun fact: 1 year ago this time i was working at Hermes in Dubai
+🔭 Currently studying CS50 from Harvard<br> 🌱 Learned Linux, hardware and networking basics<br>💬 Read handful of books on DevOps and Agile <br>⚡ Fun fact: 1 year ago this time I was working at Hermes in Dubai
 
 
 ## 🌐 Socials:
